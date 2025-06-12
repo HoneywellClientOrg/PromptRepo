@@ -1,3 +1,4 @@
+MCP server for azure devops sample prompts!
 • Creating branches and pull requests
 • Triggering pipelines and releases
 • Creating repositories for new code
