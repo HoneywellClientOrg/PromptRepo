@@ -3,4 +3,4 @@
 • Creating repositories for new code
 • Creating a new bug based on some issues you found in the code
 • Summarizing your current workload status for standups
-Enhance or improve Work Item contents![Uploading image.png…]()
+  Enhance or improve Work Item contents
